@@ -12,3 +12,5 @@ $ cd open-with-mpv
 ```
 
 And now open the `*.xpi` file in firefox (drag and drop in add-ons manager)
+
+<sub>If you are a windows user, i am sorry but i dont give a fuck</sub>
