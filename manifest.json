@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Open in MPV",
+  "version": "1.0",
+ 
+  "description": "Presents a right-click menu option to open a link in mpv.",
+ 
+  "background": {
+    "scripts": ["background.js"]
+  },
+
+  "permissions": ["menus"]
+}
