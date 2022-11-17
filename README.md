@@ -1,6 +1,6 @@
 # Open with mpv
 
-This is web extension for firefox/chrome to open any link in mpv
+This is web extension for firefox/chrome to open any link in mpv via right click context menu
 
 # Installation
 
