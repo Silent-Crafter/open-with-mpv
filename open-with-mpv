@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# bash and not just sh because we are using some bash-specific syntax
+
+ref=${1#mpv://}
+echo "mpv \"$ref\"" >> /tmp/mpv.log
+mpv "$ref"
