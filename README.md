@@ -9,6 +9,7 @@ $ git clone https://github.com/Silent-Crafter/open-with-mpv
 $ cd open-with-mpv
 # install -Dm755 open-with-mpv /usr/bin/open-with-mpv
 # desktop-file-install open-with-mpv.desktop
+$ xdg-mime default open-with-mpv.desktop x-scheme-handler/mpv
 ```
 
 And now open the `*.xpi` file in firefox (drag and drop in add-ons manager)
